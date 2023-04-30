@@ -2,7 +2,7 @@
 
 1...... bootluder unlock :- https://youtu.be/sW6Pj4qGQhE
 
-2...... samsung room:- www.SamFw.com
+2...... samsung room:- www.SamFw.com and vidio:-https://youtu.be/SpQsvrOLQTs
 
 3....... SamFwToolSetup_v4.6 
 
