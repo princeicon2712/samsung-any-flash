@@ -1,6 +1,6 @@
 # samsung-any-flash
 
-1...... bootluder unlock
+1...... bootluder unlock :- https://youtu.be/sW6Pj4qGQhE
 
 2...... samsung room:- www.SamFw.com
 
