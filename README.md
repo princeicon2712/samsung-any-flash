@@ -9,3 +9,5 @@
 4....... 7zip install
 
 5.......samsung cablo drive
+
+(6)... boot.tar
